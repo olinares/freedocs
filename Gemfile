@@ -3,6 +3,7 @@ source "https://rubygems.org"
 ruby "2.2.0"
 
 gem 'active_model_serializers'
+gem "omniauth-google-oauth2"
 gem "airbrake"
 gem "bourbon", "~> 4.2.0"
 gem "coffee-rails", "~> 4.1.0"
